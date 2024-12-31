@@ -1,4 +1,4 @@
-Sample Containerized application
+# Sample Containerized Application
 
 A property search backend and default Next.js frontend with Redis/Postgresql support containerized with Docker. 
 
